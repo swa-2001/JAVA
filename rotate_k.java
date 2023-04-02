@@ -1,4 +1,4 @@
-//CONVERT STRING FROM UPPER TO LOWER CASE WITHOUT BUILT IN FUNCTIONS
+//ROTATE ARRAY K TIMES
 package practice;
 import java.util.*;
 public class Leetcode1 {
